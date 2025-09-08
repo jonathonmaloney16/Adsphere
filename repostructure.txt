@@ -1,0 +1,22 @@
+adsphere/
+  .env.example
+  .env.local                # you'll create this using the snippet below
+  next.config.js
+  netlify.toml              # for Netlify hosting
+  package.json
+  README.md
+  public/
+    favicon.ico
+    logo.png
+  styles/
+    globals.css
+  pages/
+    _app.js
+    index.js
+    seats.js
+    pricing.js
+    dashboard.js
+    terms.js
+    privacy.js
+    compliance.js
+    404.js
